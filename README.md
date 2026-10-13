@@ -86,6 +86,11 @@ The Literature and Peace prizes have no right answers to rediscover, so they are
 
 © 2026 Zechen Bian. 保留所有权利 / All rights reserved.
 
-本项目**不是开源项目**。可以在线使用，但未经书面许可，不得复制、修改、再分发、商用或用于 AI/机器学习训练。详见 [LICENSE](../LICENSE)。页面从 CDN 加载的 MathJax 和 Google Fonts 网页字体是第三方作品，按各自的许可使用。
+本项目**不是开源项目**。可以在线使用，但未经书面许可，不得复制、修改、再分发、商用或用于 AI/机器学习训练。详见 [LICENSE](LICENSE)。页面从 CDN 加载的 MathJax 和 Google Fonts 网页字体是第三方作品，按各自的许可使用。
 
-This project is **not open source**. You are welcome to use it online, but you may not copy, modify, redistribute, use commercially, or use it to train AI/ML models without written permission. See [LICENSE](../LICENSE). MathJax and the Google Fonts web fonts, which the pages load from CDNs, are third-party works used under their own licences.
+This project is **not open source**. You are welcome to use it online, but you may not copy, modify, redistribute, use commercially, or use it to train AI/ML models without written permission. See [LICENSE](LICENSE). MathJax and the Google Fonts web fonts, which the pages load from CDNs, are third-party works used under their own licences.
+
+
+## Repository origin / 仓库来源
+
+本项目从 [AudreyYUAN0825/ZechenBian.github.io](https://github.com/AudreyYUAN0825/ZechenBian.github.io) 的 `nobel-lab/` 目录拆分，保留该目录的提交历史。原始作品来自 [ZechenBian/ZechenBian.github.io](https://github.com/ZechenBian/ZechenBian.github.io)，作者、版权及许可不变；原在线演示链接仍指向作者的网站。
